@@ -1,0 +1,121 @@
+ID,Gender,Winner,Server,TLx,TLy,TRx,TRy,BLx,BLy,BRx,BRy,xyFrameTime,RallyLength,CamMvmt,MatchName
+1,1,0,1,425,174,868,174,175,581,1114,583,1,9,0,"Daniel Evans vs Feliciano Lopez, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+2,1,0,0,419,173,862,174,169,581,1108,582,1,2,0,"Daniel Evans vs Feliciano Lopez, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+3,1,0,0,412,164,866,164,155,581,1118,583,5,12,0,"Daniel Evans vs Feliciano Lopez, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+4,1,1,0,411,182,865,180,154,599,1119,600,2,9,0,"Daniel Evans vs Feliciano Lopez, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+5,1,1,0,410,174,863,174,152,593,1116,592,4,11,0,"Daniel Evans vs Feliciano Lopez, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+6,1,1,0,417,182,859,180,168,587,1103,587,3,12,0,"Daniel Evans vs Feliciano Lopez, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+7,1,1,0,411,170,872,170,151,593,1128,594,1,5,0,"Daniel Evans vs Feliciano Lopez, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+8,1,1,0,455,326,822,326,173,685,1109,682,3,7,0,"Marco Cecchinato vs Liam Broady, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+9,1,0,0,449,246,863,247,133,646,1188,649,4,6,1,"Marco Cecchinato vs Liam Broady, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+10,1,0,1,458,240,843,240,167,610,1139,612,4,11,1,"Marco Cecchinato vs Liam Broady, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+11,1,0,0,441,236,832,236,148,611,1131,609,1,4,0,"Marco Cecchinato vs Liam Broady, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+12,1,1,1,479,152,899,154,169,547,1221,562,0,1,0,"Marco Cecchinato vs Liam Broady, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+13,1,1,1,480,154,906,156,163,555,1235,571,0,4,1,"Marco Cecchinato vs Liam Broady, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+14,1,1,1,462,154,886,156,142,559,1214,568,0,2,0,"Marco Cecchinato vs Liam Broady, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+15,0,1,1,346,238,937,236,102,628,1183,626,2,8,0,"Sloane Stephens vs Petra Kvitova, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+16,0,0,0,338,246,935,244,92,638,1182,635,2,5,0,"Sloane Stephens vs Petra Kvitova, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+17,0,1,0,371,246,975,244,123,641,1229,644,4,8,1,"Sloane Stephens vs Petra Kvitova, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+18,0,1,1,356,242,956,240,109,636,1207,637,5,12,1,"Sloane Stephens vs Petra Kvitova, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+19,0,0,0,340,244,943,242,93,639,1192,637,2,8,0,"Sloane Stephens vs Petra Kvitova, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+20,0,0,0,375,251,983,249,126,648,1240,652,4,6,0,"Sloane Stephens vs Petra Kvitova, First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+21,0,0,1,366,216,908,214,123,605,1156,601,3,12,0,"Nastasja Mariana Schunk vs Ane Mintegi Del Olmo: Final Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+22,0,0,1,369,207,909,206,127,595,1156,591,4,10,0,"Nastasja Mariana Schunk vs Ane Mintegi Del Olmo: Final Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+23,0,1,0,367,208,907,206,125,595,1154,591,1,3,0,"Nastasja Mariana Schunk vs Ane Mintegi Del Olmo: Final Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+24,0,0,0,369,206,908,204,127,594,1155,590,3,6,0,"Nastasja Mariana Schunk vs Ane Mintegi Del Olmo: Final Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+25,1,1,0,353,206,972,254,96,656,1235,655,4,9,1,"Novak Djokovic vs Matteo Berrettini: Finals Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+26,1,1,1,341,252,923,248,100,629,1167,623,1,8,1,"Novak Djokovic vs Matteo Berrettini: Finals Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+27,1,0,1,381,249,1006,246,125,649,1273,653,3,8,0,"Novak Djokovic vs Matteo Berrettini: Finals Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+28,1,0,0,358,255,978,252,101,660,1241,659,4,4,1,"Novak Djokovic vs Matteo Berrettini: Finals Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+29,1,0,1,378,251,966,248,136,628,1214,628,4,8,1,"Novak Djokovic vs Matteo Berrettini: Finals Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+30,1,1,0,355,261,979,258,96,664,1246,664,1,7,0,"Novak Djokovic vs Matteo Berrettini: Finals Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+31,1,1,1,375,250,991,247,123,644,1254,646,5,10,1,"Novak Djokovic vs Matteo Berrettini: Finals Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+32,1,0,0,361,254,979,252,106,651,1241,650,5,12,0,"Novak Djokovic vs Matteo Berrettini: Finals Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+33,1,0,0,357,249,978,247,102,648,1241,647,5,11,1,"Novak Djokovic vs Matteo Berrettini: Finals Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+34,1,0,1,362,250,983,246,105,648,1247,649,3,9,1,"Novak Djokovic vs Matteo Berrettini: Finals Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+35,1,0,1,368,253,983,250,114,647,1245,648,4,10,1,"Novak Djokovic vs Matteo Berrettini: Finals Highlights - The Championships, Wimbledon 2021 - Official Site by IBM"
+36,0,1,0,178,125,470,124,58,314,592,314,4,11,0,Barty vs Kerber Semi Finals 2021
+37,0,0,1,178,123,470,122,57,313,592,313,3,9,0,Barty vs Kerber Semi Finals 2021
+38,0,0,0,178,120,470,119,58,309,591,308,6,13,1,Barty vs Kerber Semi Finals 2021
+39,0,0,0,180,120,470,119,60,308,591,308,3,13,0,Barty vs Kerber Semi Finals 2021
+40,0,0,0,175,128,473,127,52,320,598,320,4,13,0,Barty vs Kerber Semi Finals 2021
+41,0,0,0,173,127,470,126,49,320,595,319,1,5,0,Barty vs Kerber Semi Finals 2021
+42,0,1,0,174,127,477,127,48,323,605,323,1,10,0,Barty vs Kerber Semi Finals 2021
+43,0,1,0,174,127,477,127,48,323,605,323,2,11,0,Barty vs Kerber Semi Finals 2021
+44,0,0,0,172,127,472,126,48,320,597,319,5,12,1,Barty vs Kerber Semi Finals 2021
+45,1,1,0,189,117,493,118,63,315,620,319,4,10,0,Federer vs Hurkacz QF 2021
+46,1,1,0,180,115,476,116,57,308,598,311,3,12,0,Federer vs Hurkacz QF 2021
+47,1,1,1,190,116,485,117,69,307,607,311,5,11,1,Federer vs Hurkacz QF 2021
+48,1,0,1,180,117,473,117,58,309,595,311,3,10,0,Federer vs Hurkacz QF 2021
+49,1,1,1,181,120,483,121,57,317,608,320,3,7,1,Federer vs Hurkacz QF 2021
+50,1,0,0,176,119,467,119,54,310,588,311,3,7,0,Federer vs Hurkacz QF 2021
+51,1,1,0,177,118,466,118,57,307,585,308,1,6,0,Federer vs Hurkacz QF 2021
+52,1,0,1,174,117,463,117,54,306,582,307,3,8,1,Federer vs Hurkacz QF 2021
+53,1,1,1,177,118,465,118,57,307,585,309,4,12,0,Federer vs Hurkacz QF 2021
+54,1,0,1,176,118,465,119,56,307,584,309,2,11,0,Federer vs Hurkacz QF 2021
+55,1,0,1,174,120,467,120,53,311,588,313,2,6,0,Federer vs Hurkacz QF 2021
+56,1,0,0,191,111,449,110,74,297,567,296,1,5,0,Khachanov vs Shapovalov QF 2021
+57,1,0,0,189,111,448,111,73,297,566,296,2,6,0,Khachanov vs Shapovalov QF 2021
+58,1,0,1,187,111,450,110,68,300,571,299,6,9,1,Khachanov vs Shapovalov QF 2021
+59,1,0,0,188,111,451,110,69,300,572,301,5,9,0,Khachanov vs Shapovalov QF 2021
+60,1,0,0,188,104,451,104,69,254,572,293,6,13,0,Khachanov vs Shapovalov QF 2021
+61,1,1,1,188,105,452,105,69,295,573,294,7,13,0,Khachanov vs Shapovalov QF 2021
+62,1,1,1,186,107,453,107,65,299,574,298,7,12,0,Khachanov vs Shapovalov QF 2021
+63,1,0,1,186,105,453,105,65,296,575,296,5,10,0,Khachanov vs Shapovalov QF 2021
+64,1,0,1,187,103,456,103,67,294,575,294,6,11,0,Khachanov vs Shapovalov QF 2021
+65,1,1,0,184,110,455,110,63,305,577,303,6,10,0,Khachanov vs Shapovalov QF 2021
+66,0,0,0,175,127,461,127,57,313,579,313,7,13,0,Pliskova vs Sabalenka Semi Finals 2021
+67,0,1,1,179,128,463,128,61,312,582,312,3,5,1,Pliskova vs Sabalenka Semi Finals 2021
+68,0,0,0,177,127,460,126,59,312,580,313,7,15,0,Pliskova vs Sabalenka Semi Finals 2021
+69,0,1,0,176,128,459,127,61,313,579,313,7,13,0,Pliskova vs Sabalenka Semi Finals 2021
+70,0,0,0,178,122,468,122,58,308,591,308,6,11,0,Pliskova vs Sabalenka Semi Finals 2021
+71,0,0,0,178,120,478,120,57,309,592,309,6,12,0,Pliskova vs Sabalenka Semi Finals 2021
+72,0,1,0,180,122,473,122,60,309,590,309,3,7,0,Pliskova vs Sabalenka Semi Finals 2021
+73,0,0,0,178,123,478,122,58,311,591,311,5,9,0,Pliskova vs Sabalenka Semi Finals 2021
+74,0,0,1,198,121,490,121,78,308,618,308,5,9,1,Pliskova vs Sabalenka Semi Finals 2021
+75,0,1,1,109,120,480,120,68,309,605,309,3,6,0,Pliskova vs Sabalenka Semi Finals 2021
+76,0,0,1,187,112,456,112,67,302,576,303,4,9,1,Cirstea vs Raducanu Third Round 2021
+77,0,1,0,189,111,456,111,71,299,574,299,4,9,0,Cirstea vs Raducanu Third Round 2021
+78,0,1,0,183,113,453,112,64,307,576,306,4,8,0,Cirstea vs Raducanu Third Round 2021
+79,0,0,1,190,114,448,114,73,300,569,300,6,12,1,Cirstea vs Raducanu Third Round 2021
+80,0,0,1,180,110,454,110,66,304,573,303,4,8,0,Cirstea vs Raducanu Third Round 2021
+81,0,0,1,184,112,453,111,64,305,575,303,4,8,0,Cirstea vs Raducanu Third Round 2021
+82,0,0,1,185,110,454,111,65,304,575,303,5,11,0,Cirstea vs Raducanu Third Round 2021
+83,0,0,1,185,114,454,113,66,304,575,303,4,7,0,Cirstea vs Raducanu Third Round 2021
+84,0,0,1,185,113,453,112,67,305,575,304,6,11,0,Cirstea vs Raducanu Third Round 2021
+85,0,0,1,214,102,427,102,93,298,547,298,4,8,0,Swiatek vs Jabeur Fourth Round 2021
+86,0,0,1,210,100,430,99,86,300,554,301,4,8,0,Swiatek vs Jabeur Fourth Round 2021
+87,0,1,0,210,98,432,97,85,300,556,301,6,11,0,Swiatek vs Jabeur Fourth Round 2021
+88,0,0,1,211,102,428,102,91,299,551,299,7,11,1,Swiatek vs Jabeur Fourth Round 2021
+89,1,0,1,175,119,478,119,52,315,605,315,5,8,1,Otte vs Murray Second Round 2021
+90,1,0,1,176,123,476,122,51,312,607,321,8,15,0,Otte vs Murray Second Round 2021
+91,1,1,0,185,129,457,129,59,330,626,332,4,7,0,Otte vs Murray Second Round 2021
+92,1,0,0,193,126,500,126,70,324,628,326,5,9,0,Otte vs Murray Second Round 2021
+93,1,0,1,151,115,458,115,36,311,580,309,5,8,0,Otte vs Murray Second Round 2021
+94,1,1,0,201,124,507,124,77,322,637,328,4,8,0,Otte vs Murray Second Round 2021
+95,1,0,1,157,117,445,116,40,307,564,304,7,11,1,Otte vs Murray Second Round 2021
+96,1,1,1,183,123,483,122,61,317,608,318,6,9,0,Otte vs Murray Second Round 2021
+97,1,1,1,202,121,505,120,81,315,631,319,6,10,0,Otte vs Murray Second Round 2021
+98,1,0,1,188,120,488,119,66,317,612,319,4,6,1,Otte vs Murray Second Round 2021
+99,1,0,1,383,248,1008,247,126,647,1270,653,5,9,0,Novak Djokovic vs Matteo Berrettini 
+100,1,0,0,367,258,986,255,110,656,1249,656,2,4,0,Novak Djokovic vs Matteo Berrettini
+101,1,0,1,417,247,1000,245,181,618,1247,624,4,8,1,Novak Djokovic vs Matteo Berrettini
+102,1,0,0,354,261,980,258,103,602,1243,602,4,6,1,Novak Djokovic vs Matteo Berrettini
+103,1,1,1,370,258,965,253,131,637,1211,637,2,5,1,Novak Djokovic vs Matteo Berrettini
+104,1,1,1,296,247,893,243,51,632,1136,623,6,10,1,Novak Djokovic vs Matteo Berrettini
+105,1,0,1,377,251,993,248,127,643,1253,647,5,9,0,Novak Djokovic vs Matteo Berrettini
+106,1,0,0,362,255,980,255,111,647,1238,647,7,13,0,Novak Djokovic vs Matteo Berrettini
+107,1,0,0,357,251,981,248,109,647,1239,639,7,12,0,Novak Djokovic vs Matteo Berrettini
+108,1,0,1,357,251,980,249,106,650,1241,648,5,10,0,Novak Djokovic vs Matteo Berrettini
+109,1,0,1,379,254,999,251,128,647,1258,650,6,12,1,Novak Djokovic vs Matteo Berrettini
+110,0,0,0,375,250,984,248,125,647,1260,650,5,10,0,"Video - Semi-Final Highlights, Elina Svitolina vs Simona Halep - The Championships, Wimbledon 2021 - Official Site by IBM"
+111,0,0,1,369,241,984,241,125,639,1238,645,7,13,0,"Video - Semi-Final Highlights, Elina Svitolina vs Simona Halep - The Championships, Wimbledon 2021 - Official Site by IBM"
+112,0,1,0,370,246,983,246,129,639,1236,642,7,14,0,"Video - Semi-Final Highlights, Elina Svitolina vs Simona Halep - The Championships, Wimbledon 2021 - Official Site by IBM"
+113,0,0,1,361,242,973,242,122,637,1226,641,4,9,0,"Video - Semi-Final Highlights, Elina Svitolina vs Simona Halep - The Championships, Wimbledon 2021 - Official Site by IBM"
+114,0,1,1,380,243,990,242,140,635,1244,641,2,5,1,"Video - Semi-Final Highlights, Elina Svitolina vs Simona Halep - The Championships, Wimbledon 2021 - Official Site by IBM"
+115,0,1,1,265,238,873,234,18,637,1121,627,6,12,1,"Video - Semi-Final Highlights, Elina Svitolina vs Simona Halep - The Championships, Wimbledon 2021 - Official Site by IBM"
+116,0,0,1,416,275,1116,275,141,724,1406,733,4,11,1,"Video - Semi-Final Highlights, Elina Svitolina vs Simona Halep - The Championships, Wimbledon 2021 - Official Site by IBM"
+117,0,1,1,368,237,990,239,124,639,1248,646,5,10,1,"Video - Semi-Final Highlights, Elina Svitolina vs Simona Halep - The Championships, Wimbledon 2021 - Official Site by IBM"
+118,0,0,1,418,272,1116,273,142,719,1407,728,4,5,1,"Video - Semi-Final Highlights, Elina Svitolina vs Simona Halep - The Championships, Wimbledon 2021 - Official Site by IBM"
+119,0,0,1,201,89,412,87,50,290,547,285,5,11,1,"Video - Mihaela Buzarnescu vs Venus Williams First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IB"
+120,0,0,1,210,94,425,95,57,299,588,297,6,13,0,"Video - Mihaela Buzarnescu vs Venus Williams First Round Highlights - The Championships, Wimbledon 2021 - Official Site by IB"
